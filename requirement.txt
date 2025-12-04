@@ -1,0 +1,7 @@
+paho-mqtt 
+fastapi 
+uvicorn 
+pytest 
+httpx 
+pyserial 
+pydantic
